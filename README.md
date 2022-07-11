@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="600em" src="assets/to_readme/cover.png"
+  <img height="500em" src="assets/to_readme/cover.png"
 </p>
   
 ![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/vcosta-links)
